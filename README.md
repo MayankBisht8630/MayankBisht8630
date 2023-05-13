@@ -3,11 +3,11 @@
 <h1 align="center">Hi , नमस्ते (Namaste) 🙏, I'm Mayank Bisht</h1>
 <h3 align="center">I am a Student , Research & Developer👨‍💻, looking to solve real-world problems🌏. I'm passionate about Software Development , Java Developer , I like learning and experimenting with new technologies, building projects . Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄.</h3>
 
-<img align="right" alt="coading" width="300" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankbisht8630&label=Profile%20views&color=0e75b6&style=flat" alt="mayankbisht8630" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankbisht8630" alt="mayankbisht8630" /></a> </p>
+
+<img align="right" alt="coading" width="300" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
 - 🔭 I’m currently working on **Advanced Spring Boot Project**
 
@@ -32,7 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mayankbisht8630&show_icons=true&locale=en" alt="mayankbisht8630" /></p>
 </p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankbisht8630&" alt="mayankbisht8630" /></p>
-
-<p align="center">....................................................................................................................................................................................................................................................................................................................</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankbisht8630&show_icons=true&locale=en&layout=compact" alt="mayankbisht8630" /></p>
