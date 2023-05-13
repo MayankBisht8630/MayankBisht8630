@@ -21,6 +21,11 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1F356jblSWedrm9ns6yRNwVrZ1JlEi1WTwfs_YzS2IJU/edit?usp=sharing](https://docs.google.com/document/d/1F356jblSWedrm9ns6yRNwVrZ1JlEi1WTwfs_YzS2IJU/edit?usp=sharing)
 
+# :briefcase: Work
+- [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
+
+[![Mayank's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MayankBisht8630&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/mayank bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank bisht" height="40" width="50" /></a>
