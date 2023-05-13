@@ -19,8 +19,8 @@
 
 <hr>
 
-<h2 align="center"> Work Stats </h2>
-- [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
+<h2 align="center"> Contribution </h2>
+Employee Portal (https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
 
 [![Mayank's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MayankBisht8630&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
