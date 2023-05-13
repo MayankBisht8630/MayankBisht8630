@@ -1,7 +1,7 @@
 # MayankBisht8630-
 <img align="center" width="1000" height="300" src="https://contentstatic.techgig.com/photo/94759718/java-developers-learn-these-top-5-tools-in-2023.jpg?21590">
 <h1 align="center">Hi , नमस्ते (Namaste) 🙏, I'm Mayank Bisht</h1>
-<h3 align="center">I am a Student , Research & Developer👨‍💻, looking to solve real-world problems🌏. I'm passionate about Software Development , Java Developer , I like learning and experimenting with new technologies, building projects . Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄.</h3>
+<h3 align="center">I am a Student , Researcher & Developer👨‍💻, looking to solve real-world problems🌏. I'm passionate about Software Development , Java Developer , I like learning and experimenting with new technologies, building projects . Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄.</h3>
 
 <img align="right" alt="coading" width="300" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
