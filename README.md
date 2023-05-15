@@ -69,7 +69,7 @@ Employee Portal (https://github.com/ColoredCow/portal) - A hub-and-spoke platfor
   <img width=48% height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankbisht8630&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center" width=300>
- <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankbisht8630&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankbisht8630&show_icons=true&theme=tokyonight" />
 </p>
 
 <hr>
