@@ -76,8 +76,8 @@ Employee Portal (https://github.com/ColoredCow/portal) - A hub-and-spoke platfor
 
 <h2 align="center"> 📊GitHub Trophies :</h2>
 <div align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MayankBisht8630&row=4&theme=tokyonight&no-frame=true"/>
+	<a align="center" href="https://github.com/MayankBisht8630/github-profile-trophy">
+		<img align="center" width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MayankBisht8630&row=4&theme=tokyonight&no-frame=true"/>
 	</a>
 </div>
 <hr>
