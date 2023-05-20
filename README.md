@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [All Projects](https://github.com/MayankBisht8630)
+- 👨‍💻 All of my projects are available at [All Projects](https://mayankbisht.netlify.app/Mayank)
 
 - 💬 Ask me about **Java , Software Development**
 
