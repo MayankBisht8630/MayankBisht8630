@@ -31,6 +31,7 @@ Employee Portal (https://github.com/ColoredCow/portal) - A hub-and-spoke platfor
 <p align="center">
 <a href="https://www.linkedin.com/in/mayank-bisht-b00ba6236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank bisht" height="40" width="50" /></a>
 <a href="https://instagram.com/bisht_mayank_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bisht_mayank_" height="40" width="50" /></a>
+<a href="https://mayankbisht.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank bisht" height="40" width="50" /></a>
 </p>
 
 <hr>
