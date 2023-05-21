@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1F356jblSWedrm9ns6yRNwVrZ1JlEi1WTwfs_YzS2IJU/edit?usp=sharing)
 
-- 📄 My PortFolio [Mayank bisht PortFolio](https://mayankbisht.netlify.app/)
+- 👨‍💻 My PortFolio [Mayank bisht PortFolio](https://mayankbisht.netlify.app/)
 <hr>
 
 <h2 align="center"> Contribution </h2>
