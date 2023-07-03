@@ -26,14 +26,12 @@
 <h2 align="center"> Contribution </h2>
 Employee Portal (https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
 
-[![Mayank's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MayankBisht8630&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankBisht8630&theme=github-compact)](https://github.com/MayankBisht8630/github-readme-activity-graph)
 <hr>
  
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/mayank-bisht-b00ba6236/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mayank bisht" height="40" width="50" /></a>
-<a href="https://instagram.com/bisht_mayank_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bisht_mayank_" height="40" width="50" /></a>
 <a href="https://mayankbisht.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank bisht" height="40" width="50" /></a>
 </p>
 
