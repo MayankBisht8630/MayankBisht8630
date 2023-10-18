@@ -24,7 +24,6 @@
 <hr>
 
 <h2 align="center"> Contribution </h2>
-Employee Portal (https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
 
 [![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankBisht8630&theme=github-compact)](https://github.com/MayankBisht8630)
 <hr>
