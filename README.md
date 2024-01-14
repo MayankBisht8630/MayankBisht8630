@@ -4,21 +4,21 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=910&height=80&lines=Hi+नमस्ते+(Namaste)+🙏,+This+is+Mayank+Bisht+;Welcome+To+My+Profile" alt="Typing SVG" /></a>
 </div>
 </br>
-<h3 align="center">I am a Student , Researcher & Developer👨‍💻, looking to solve real-world problems🌏. I'm passionate about Software Development , Java Development , I like learning and experimenting with new technologies, building projects . Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄.</h3>
+<h3 align="center">I am a Student , Researcher & Developer👨‍💻, looking to solve real-world problems🌏. I'm passionate about Android Development , and Web Development , I like learning and experimenting with new technologies, building projects . Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄.</h3>
 
 <img align="right" alt="coading" width="300" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
-- 🔭 I’m currently working on **Advanced Spring Boot Project**
+- 🔭 I’m currently working on **Jet Pack Compose Android**
 
 - 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [All Projects](https://mayankbisht.netlify.app/Mayank)
 
-- 💬 Ask me about **Java , Software Development**
+- 💬 Ask me about **Android , Software Development**
 
 - 📫 How to reach me **mayank8630bisht@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1F356jblSWedrm9ns6yRNwVrZ1JlEi1WTwfs_YzS2IJU/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14KwUMhyxlL4a_XJisCszQymjQe5cykDS/view)
 
 - 👨‍💻 My PortFolio [Mayank bisht PortFolio](https://mayankbisht.netlify.app/)
 <hr>
