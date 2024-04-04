@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mayank8630bisht@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14KwUMhyxlL4a_XJisCszQymjQe5cykDS/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1ZxFUEL2DSSYY4vRuSJocD17izBALlfcR?usp=sharing)
 
 - 👨‍💻 My PortFolio [Mayank bisht PortFolio](https://mayankbisht.netlify.app/)
 <hr>
