@@ -40,22 +40,22 @@
 <h2 align="center"> Tech Stack </h2>
 <div align="center">
     <img href="https://kotlin.io/" target="blank" src="https://skillicons.dev/icons?i=kotlin"/>
-    <img href="https://jetpackcompose.io/" target="blank" src="https://skillicons.dev/icons?i=android"/>
+    <img href="https://reactjs.org/" target="blank" src="https://skillicons.dev/icons?i=react"/>
+    <img href="https://www.javascript.com/" target="blank" src="https://skillicons.dev/icons?i=js"/>
     <img href="https://www.java.com/en/" target="blank" src="https://skillicons.dev/icons?i=java"/>
     <img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=spring boot"/>
+    <img href="https://aws.io/" target="blank" src="https://skillicons.dev/icons?i=aws"/>
+    <img href="https://googlecloud/" target="blank" src="https://skillicons.dev/icons?i=googlecloud"/>
+    <img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=docker"/>
+    <img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=python"/>
     <img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=html"/>
-    <img href="https://www.php.net/" target="blank" src="https://skillicons.dev/icons?i=php"/>
-    <img href="https://laravel.com/" target="blank" src="https://skillicons.dev/icons?i=laravel"/>
-    <img href="https://www.javascript.com/" target="blank" src="https://skillicons.dev/icons?i=js"/>
-    <img href="https://getbootstrap.com/" target="blank" src="https://skillicons.dev/icons?i=bootstrap"/>
     <img href="https://www.w3.org/Style/CSS/" target="blank" src="https://skillicons.dev/icons?i=css"/>
-    <img href="https://reactjs.org/" target="blank" src="https://skillicons.dev/icons?i=react"/>
     <img href="https://www.mysql.com/" target="blank" src="https://skillicons.dev/icons?i=mysql"/>
     <img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=git"/>
-    <img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=c"/>
     <img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=jquery"/>
-    <img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=hibernate"/>
     <img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=github"/>
+    <img href="https://www.php.net/" target="blank" src="https://skillicons.dev/icons?i=php"/>
+    <img href="https://laravel.com/" target="blank" src="https://skillicons.dev/icons?i=laravel"/>
 </div>
 
 <hr>
