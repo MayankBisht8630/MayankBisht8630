@@ -40,6 +40,7 @@
 <h2 align="center"> Tech Stack </h2>
 <div align="center">
     <img href="https://kotlin.io/" target="blank" src="https://skillicons.dev/icons?i=kotlin"/>
+    <img href="https://jetpackcompose.io/" target="blank" src="https://skillicons.dev/icons?i=android"/>
     <img href="https://www.java.com/en/" target="blank" src="https://skillicons.dev/icons?i=java"/>
     <img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=spring boot"/>
     <img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=html"/>
