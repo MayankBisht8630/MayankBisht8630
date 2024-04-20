@@ -60,7 +60,7 @@
 
 <hr>
 
-<h2 align="center"> 💻Tools: </h2>
+<h2 align="center"> 💻Tools : </h2>
 <div align="center">
 	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" hight="50"/>
 	<img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=git,vscode,idea,powershell,bash,figma,gitlab,eclipse"/>
