@@ -1,5 +1,5 @@
 # MayankBisht8630-
-<img align="center" width="1000" height="300" src="https://www.dngappdeveloper.com/images/app-development/android-application-development-banner.jpg">
+<img align="center" width="1000" height="300" src="https://www.integrityinfoedge.com/wp-content/uploads/2023/02/mobile-app-development.jpg">
 <div align="center" >
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=910&height=80&lines=Hi+नमस्ते+(Namaste)+🙏,+This+is+Mayank+Bisht+;Welcome+To+My+Profile" alt="Typing SVG"/></a>
 </div>
