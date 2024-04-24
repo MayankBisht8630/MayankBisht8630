@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Android , Software Development**
 
-- 📫 How to reach me **mayank8630bisht@gmail.com** 
+- 📫 How to reach me **mayank8630bisht@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1ZxFUEL2DSSYY4vRuSJocD17izBALlfcR?usp=sharing)
 
