@@ -3,7 +3,7 @@
 <div align="center" >
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=910&height=80&lines=Hi+नमस्ते+(Namaste)+🙏,+This+is+Mayank+Bisht+;Welcome+To+My+Profile" alt="Typing SVG"/></a>
 </div>
-</br>
+</br> 
 <h3 align="center">I am a Student ,Researcher & Developer👨‍💻, looking to solve real-world problems🌏. I'm passionate about Android Development , and Web Development , I like learning and experimenting with new technologies, building projects . Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄. </h3>
 
 <img align="right" alt="coading" width="300" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"> 
