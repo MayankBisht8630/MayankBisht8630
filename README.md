@@ -6,7 +6,7 @@
 </br> 
 <h3 align="center">I am a Student ,Researcher & Developer👨‍💻, looking to solve real-world problems🌏. I'm passionate about Android Development , and Web Development , I like learning and experimenting with new technologies, building projects . Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄. </h3>
 
-<img align="right" alt="coading" width="300" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
+<img align="right" alt="coading" width="300" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"> 
 
 - 🔭 I’m currently working on **Jet Pack Compose Android**
 
