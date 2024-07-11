@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Jet Pack Compose Android** 
 - 
-- 🌱 I’m currently learning **Frameworks** 
+- 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [All Projects ](https://mayankbisht.netlify.app/Mayank)
 
