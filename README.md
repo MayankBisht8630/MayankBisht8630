@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [All Projects ](https://mayankbisht.netlify.app/Mayank)
 
-- 💬 Ask me about **Android , Software Development** 
+- 💬 Ask me about **Android , Software Development**
 
 - 📫 How to reach me **mayank8630bisht@gmail.com**
 
